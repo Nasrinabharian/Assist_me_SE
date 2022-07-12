@@ -7,4 +7,4 @@ the goal of this project is to help people during pandemic. services provided by
 4. OLAP services on collected data.  
   
 only number 1 and 3 will be implemented for now.
-collaborators: Elnaz Rahmati, Farida Farpour, Nasrin Abharian.
+collaborators: Nasrin Abharian, Elnaz Rahmati, Farida Farpour.
